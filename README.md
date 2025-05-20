@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on ethereum foundation
- 🌱 I’m currently learning solidity and rust
+    🔭 I’m currently working on ethereum foundation
+
+     🌱 I’m currently learning solidity and rust
 ![test](https://media.giphy.com/media/fm6xxZHgHLwxa/giphy.gif?cid=ecf05e47n4020w3ni73c8fu6rxadkhgj5tridjnp7apoc3iw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
