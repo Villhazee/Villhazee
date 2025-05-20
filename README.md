@@ -17,4 +17,4 @@ Here are some ideas to get you started:
     🔭 I’m currently working on ethereum foundation
 
      🌱 I’m currently learning solidity and rust
-![test](https://media.giphy.com/media/fm6xxZHgHLwxa/giphy.gif?cid=ecf05e47n4020w3ni73c8fu6rxadkhgj5tridjnp7apoc3iw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![test](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG40bDhpeTloOXgxa2xlNG9wcXlsdGZ5emp5bjJreDZrc3RiYnB2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif))
