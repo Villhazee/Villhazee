@@ -13,7 +13,7 @@
   <a href="mailto:ohmygenius6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ada682">
+  <a href="https://github.com/Villhazee">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -32,7 +32,7 @@
 ```javascript
 class TechCreator {
   constructor() {
-    this.identity = "KINJI";
+    this.identity = "SHINRA";
     this.domains = [
       "Automation Systems", 
       "Web3 Solutions",
